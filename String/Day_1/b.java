@@ -1,5 +1,5 @@
 package String.Day_1;
-// valid palindrome || (leetcode 125 and  GFG practice)
+// valid palindrome  (leetcode 125 and  GFG practice)
 public class b {
     // leetcode solution
     public boolean isPalindrome(String s) {
